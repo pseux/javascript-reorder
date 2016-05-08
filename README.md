@@ -4,7 +4,7 @@ A simple jQuery script for item re-ordering (without using jQuery UI).
 
 ## Example HTML
 
-```
+```html
 <div class="reorder">
 	<input type="hidden" name="order">
 	<div class="item" data-id="1">Text 1</div>
